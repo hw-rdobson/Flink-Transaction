@@ -1,0 +1,5 @@
+com/cloudera/flink/RetailTransaction.class
+com/cloudera/flink/Utils.class
+com/cloudera/flink/HashingKafkaPartitioner.class
+com/cloudera/flink/TransactionMonitorJob.class
+com/cloudera/flink/CustomerBalance.class
